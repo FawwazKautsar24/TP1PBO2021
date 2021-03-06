@@ -1,1 +1,5 @@
 Saya Fawwaz Kautsar mengerjakan evaluasi TP1PBO2021 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
+
+kesulitan yang saya alami adalah di bagian filternya. 
+
+hal baru yang saya pelajari sangat banyak, mulai dari pembuatan desain dan pembuatan programnya. 
