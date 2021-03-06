@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\asus\source\repos\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\asus\source\repos\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.MainMenu.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Detail1.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Detail2.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Detail3.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Detail4.resources
+C:\Users\asus\source\repos\TP1\TP1\obj\Debug\TP1.Detail5.resources
